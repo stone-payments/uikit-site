@@ -15,7 +15,7 @@
     "uikit": "^3.0.0-beta.42",
     "unique-id": "0.0.1",
     "vue-loader": "^14.2.1",
-    "vue-template-compiler": "^2.5.16",
+    "vue-template-compiler": "^2.7.16",
     "webpack": "^3.6.1"
   }
 }
